@@ -1,3 +1,5 @@
+export 'package:realtime_chat_proyect/widgets/chat_messages.dart';
+
 export 'package:realtime_chat_proyect/widgets/btn_rojo.dart';
 
 export 'package:realtime_chat_proyect/widgets/labels.dart';
